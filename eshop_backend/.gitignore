@@ -1,0 +1,10 @@
+# node modules
+node_modules
+
+
+# API keys and secrets
+.env
+
+# build sources
+build
+dist
